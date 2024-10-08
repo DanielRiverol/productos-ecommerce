@@ -1,0 +1,721 @@
+[
+  {
+    "id": "prd-94fjls3",
+    "name": "Laptop Dell XPS 13",
+    "category": "Laptops",
+    "price": 1200.99,
+    "currency": "USD",
+    "stock": 15,
+    "urlImage": "https://http2.mlstatic.com/D_NQ_NP_2X_646755-MLA79503262946_102024-F.webp",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screenSize": "13.3 inches"
+    }
+  },
+  {
+    "id": "prd-jk33n89",
+    "name": "Apple iPhone 14",
+    "category": "Smartphones",
+    "price": 999.99,
+    "currency": "USD",
+    "stock": 25,
+    "urlImage": "https://http2.mlstatic.com/D_NQ_NP_2X_881016-MLM51559383738_092022-F.webp",
+    "specs": {
+      "storage": "128GB",
+      "camera": "12MP dual",
+      "battery": "3110 mAh",
+      "screenSize": "6.1 inches"
+    }
+  },
+  {
+    "id": "prd-12abf94",
+    "name": "Samsung Galaxy Tab S8",
+    "category": "Tablets",
+    "price": 799.99,
+    "currency": "USD",
+    "stock": 30,
+    "urlImage": "https://media.flixcar.com/webp/synd-asset/Samsung-99506516-ar-galaxy-tab-s8-wifi-x700-sm-x700nidlaro-530922351Download-Source-zoom.png",
+    "specs": {
+      "processor": "Snapdragon 8 Gen 1",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screenSize": "11 inches"
+    }
+  },
+  {
+    "id": "prd-kd92lsm",
+    "name": "Sony WH-1000XM5",
+    "category": "Headphones",
+    "price": 399.99,
+    "currency": "USD",
+    "stock": 50,
+    "urlImage": "https://m.media-amazon.com/images/I/61D4Z3yKPAL._AC_SL1500_.jpg",
+    "specs": {
+      "type": "Over-Ear",
+      "noiseCancelling": "Yes",
+      "batteryLife": "30 hours",
+      "bluetooth": "5.2"
+    }
+  },
+  {
+    "id": "prd-8zovp1k",
+    "name": "Apple Watch Series 8",
+    "category": "Wearables",
+    "price": 429.99,
+    "currency": "USD",
+    "stock": 20,
+    "urlImage": "https://cdsassets.apple.com/live/SZLF0YNV/images/sp/111848_apple-watch-series8.png",
+    "specs": {
+      "screenSize": "1.9 inches",
+      "waterResistant": "50m",
+      "batteryLife": "18 hours",
+      "sensors": ["Heart rate", "ECG", "Blood Oxygen"]
+    }
+  },
+  {
+    "id": "prd-hp12p8x",
+    "name": "Asus ROG Zephyrus G14",
+    "category": "Laptops",
+    "price": 1499.99,
+    "currency": "USD",
+    "stock": 10,
+    "urlImage": "https://acdn.mitiendanube.com/stores/001/907/418/products/1-0db142b8c6c121127217116552781441-1024-1024.jpg",
+    "specs": {
+      "processor": "AMD Ryzen 9",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screenSize": "14 inches"
+    }
+  },
+  {
+    "id": "prd-fp19v8k",
+    "name": "Google Pixel 6",
+    "category": "Smartphones",
+    "price": 599.99,
+    "currency": "USD",
+    "stock": 40,
+    "urlImage": "https://i.blogs.es/6fc7ff/google-pixel-6-ficha-tecnica/1366_2000.jpg",
+    "specs": {
+      "storage": "128GB",
+      "camera": "50MP",
+      "battery": "4614 mAh",
+      "screenSize": "6.4 inches"
+    }
+  },
+  {
+    "id": "prd-rt56mpx",
+    "name": "Microsoft Surface Laptop 4",
+    "category": "Laptops",
+    "price": 1099.99,
+    "currency": "USD",
+    "stock": 12,
+    "urlImage": "https://m.media-amazon.com/images/I/71cQWYVtcBL._AC_SL1500_.jpg",
+    "specs": {
+      "processor": "Intel Core i5",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "screenSize": "13.5 inches"
+    }
+  },
+  {
+    "id": "prd-vn57akl",
+    "name": "Samsung Galaxy Watch 5",
+    "category": "Wearables",
+    "price": 299.99,
+    "currency": "USD",
+    "stock": 50,
+    "urlImage": "https://images.samsung.com/is/image/samsung/p6pim/ar/2208/gallery/ar-galaxy-watch5-44mm-sm-r910nzbaaro-533194323?$650_519_PNG$",
+    "specs": {
+      "screenSize": "1.4 inches",
+      "waterResistant": "50m",
+      "batteryLife": "40 hours",
+      "sensors": ["Heart rate", "Sleep tracking", "SpO2"]
+    }
+  },
+  {
+    "id": "prd-xy89hnq",
+    "name": "JBL Flip 6",
+    "category": "Speakers",
+    "price": 129.99,
+    "currency": "USD",
+    "stock": 80,
+    "urlImage": "https://assets.pcfactory.cl/public/foto/45773/2_500.jpg?t=1649947379000",
+    "specs": {
+      "type": "Portable Bluetooth",
+      "batteryLife": "12 hours",
+      "waterproof": "Yes",
+      "bluetooth": "5.1"
+    }
+  },
+  {
+    "id": "prd-nx20lak",
+    "name": "Sony A7 III",
+    "category": "Cameras",
+    "price": 1999.99,
+    "currency": "USD",
+    "stock": 25,
+    "urlImage": "https://cdn.gadgetbytenepal.com/wp-content/uploads/2018/03/Sony-A7-III-mirrorless-camera.jpg",
+    "specs": {
+      "resolution": "24.2 MP",
+      "sensorType": "Full-Frame",
+      "videoResolution": "4K",
+      "batteryLife": "710 shots"
+    }
+  },
+  {
+    "id": "prd-jy12mxo",
+    "name": "Apple iPad Pro 12.9",
+    "category": "Tablets",
+    "price": 1099.99,
+    "currency": "USD",
+    "stock": 35,
+    "urlImage": "https://ar.oneclickstore.com/wp-content/uploads/2023/01/iPad_Pro_Cellular_12.9_in_Space_Gray_PDP_Image_Position-1b__en-US.jpg",
+    "specs": {
+      "processor": "Apple M1",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screenSize": "12.9 inches"
+    }
+  },
+  {
+    "id": "prd-ab34po7",
+    "name": "Logitech MX Master 3S",
+    "category": "Accessories",
+    "price": 99.99,
+    "currency": "USD",
+    "stock": 100,
+    "urlImage": "https://i.rtings.com/assets/products/tfI79vsP/logitech-mx-master-3s/design-medium.jpg?format=auto",
+    "specs": {
+      "type": "Wireless Mouse",
+      "batteryLife": "70 days",
+      "connectivity": "Bluetooth/USB",
+      "dpi": "8000"
+    }
+  },
+  {
+    "id": "prd-we19bnq",
+    "name": "Samsung QLED 65\" Smart TV",
+    "category": "TVs",
+    "price": 1499.99,
+    "currency": "USD",
+    "stock": 10,
+    "urlImage": "https://images.samsung.com/is/image/samsung/p6pim/ar/qn65q70aagczb/gallery/ar-qled-q70a-qn65q70aagczb-493006285?$650_519_PNG$",
+    "specs": {
+      "screenSize": "65 inches",
+      "resolution": "4K UHD",
+      "smartTV": "Yes",
+      "refreshRate": "120Hz"
+    }
+  },
+  {
+    "id": "prd-wq15bol",
+    "name": "Bose SoundLink Revolve+",
+    "category": "Speakers",
+    "price": 299.99,
+    "currency": "USD",
+    "stock": 60,
+    "urlImage": "https://i.rtings.com/assets/products/Q2ZVSu87/bose-soundlink-revolve-plus-ii/design-medium.jpg?format=auto",
+    "specs": {
+      "type": "Portable Bluetooth",
+      "batteryLife": "17 hours",
+      "waterproof": "Yes",
+      "bluetooth": "4.2"
+    }
+  },
+  {
+    "id": "prd-df74ojk",
+    "name": "Lenovo ThinkPad X1 Carbon",
+    "category": "Laptops",
+    "price": 1749.99,
+    "currency": "USD",
+    "stock": 15,
+    "urlImage": "https://p3-ofp.static.pub/fes/cms/2023/02/10/o4l7gt9tgdh9i8phbid2c1ehjo35z8376943.png",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screenSize": "14 inches"
+    }
+  },
+  {
+    "id": "prd-gs12px3",
+    "name": "Dell UltraSharp 27 Monitor",
+    "category": "Monitors",
+    "price": 449.99,
+    "currency": "USD",
+    "stock": 50,
+    "urlImage": "https://http2.mlstatic.com/D_NQ_NP_861581-MLA50137393050_052022-O.webp",
+    "specs": {
+      "screenSize": "27 inches",
+      "resolution": "2560x1440",
+      "refreshRate": "60Hz",
+      "ports": ["HDMI", "USB-C"]
+    }
+  },
+  {
+    "id": "prd-tm48qlf",
+    "name": "Razer BlackWidow V3 Pro",
+    "category": "Accessories",
+    "price": 199.99,
+    "currency": "USD",
+    "stock": 100,
+    "urlImage": "https://mecateclados.com/wp-content/uploads/2023/08/Razer_BlackWidow_V3_Pro.jpg",
+    "specs": {
+      "type": "Mechanical Keyboard",
+      "connectivity": "Wireless",
+      "batteryLife": "200 hours",
+      "backlighting": "RGB"
+    }
+  },
+  {
+    "id": "prd-cd56opl",
+    "name": "Canon EOS R5",
+    "category": "Cameras",
+    "price": 3899.99,
+    "currency": "USD",
+    "stock": 8,
+    "urlImage": "https://www.cosentinostore.com.ar/Image/0/700_700-4783_EOS_R5_011.jpg",
+    "specs": {
+      "resolution": "45 MP",
+      "sensorType": "Full-Frame",
+      "videoResolution": "8K",
+      "batteryLife": "490 shots"
+    }
+  },
+  {
+    "id": "prd-lk39zpl",
+    "name": "Samsung Galaxy Buds Pro",
+    "category": "Headphones",
+    "price": 199.99,
+    "currency": "USD",
+    "stock": 100,
+    "urlImage": "https://images.bidcom.com.ar/resize?src=https://www.bidcom.com.ar/publicacionesML/productos/BUD4SAMX/1000x1000-BUD4SAMN.jpg&w=500&q=100",
+    "specs": {
+      "type": "In-Ear",
+      "noiseCancelling": "Yes",
+      "batteryLife": "8 hours",
+      "bluetooth": "5.0"
+    }
+  },
+  {
+    "id": "prd-md89plr",
+    "name": "LG OLED CX 55\" Smart TV",
+    "category": "TVs",
+    "price": 1599.99,
+    "currency": "USD",
+    "stock": 12,
+    "urlImage": "https://http2.mlstatic.com/D_NQ_NP_2X_794597-MLU73036333062_112023-F.webp",
+    "specs": {
+      "screenSize": "55 inches",
+      "resolution": "4K UHD",
+      "smartTV": "Yes",
+      "refreshRate": "120Hz"
+    }
+  },
+  {
+    "id": "prd-rp17s8q",
+    "name": "Acer Predator Helios 300",
+    "category": "Laptops",
+    "price": 1399.99,
+    "currency": "USD",
+    "stock": 15,
+    "urlImage": "https://m.media-amazon.com/images/I/71pC69I3lzL._AC_SL1500_.jpg",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screenSize": "15.6 inches"
+    }
+  },
+  {
+    "id": "prd-zj67lqm",
+    "name": "OnePlus 9 Pro",
+    "category": "Smartphones",
+    "price": 969.99,
+    "currency": "USD",
+    "stock": 35,
+    "urlImage": "https://www.notebookcheck.org/fileadmin/_processed_/3/7/csm_OnePlus_9_Pro_9_685bf10e11.jpg",
+    "specs": {
+      "storage": "256GB",
+      "camera": "48MP",
+      "battery": "4500 mAh",
+      "screenSize": "6.7 inches"
+    }
+  },
+  {
+    "id": "prd-zr34lom",
+    "name": "HP Pavilion 15",
+    "category": "Laptops",
+    "price": 749.99,
+    "currency": "USD",
+    "stock": 30,
+    "urlImage": "https://http2.mlstatic.com/D_NQ_NP_2X_611640-MLU78825158033_082024-F.webp",
+    "specs": {
+      "processor": "AMD Ryzen 5",
+      "ram": "8GB",
+      "storage": "512GB SSD",
+      "screenSize": "15.6 inches"
+    }
+  },
+  {
+    "id": "prd-xv41pql",
+    "name": "Sony Bravia 55\" OLED TV",
+    "category": "TVs",
+    "price": 1799.99,
+    "currency": "USD",
+    "stock": 20,
+    "urlImage": "https://m.media-amazon.com/images/I/81CTYcbYHzL.jpg",
+    "specs": {
+      "screenSize": "55 inches",
+      "resolution": "4K UHD",
+      "smartTV": "Yes",
+      "refreshRate": "120Hz"
+    }
+  },
+  {
+    "id": "prd-hy52jlk",
+    "name": "Beats Studio3 Wireless",
+    "category": "Headphones",
+    "price": 349.99,
+    "currency": "USD",
+    "stock": 80,
+    "urlImage": "https://cdsassets.apple.com/live/7WUAS350/images/beats/beats-setup-studio3-hero.jpg",
+    "specs": {
+      "type": "Over-Ear",
+      "noiseCancelling": "Yes",
+      "batteryLife": "22 hours",
+      "bluetooth": "5.0"
+    }
+  },
+  {
+    "id": "prd-ol27mxq",
+    "name": "Canon EOS M50 Mark II",
+    "category": "Cameras",
+    "price": 699.99,
+    "currency": "USD",
+    "stock": 25,
+    "urlImage": "https://static.wixstatic.com/media/1a92e1_d3c8aa1237924ebc8b3d3dc378083229~mv2.png/v1/fill/w_700,h_525,al_c,q_90,enc_auto/1a92e1_d3c8aa1237924ebc8b3d3dc378083229~mv2.png",
+    "specs": {
+      "resolution": "24.1 MP",
+      "sensorType": "APS-C",
+      "videoResolution": "4K",
+      "batteryLife": "305 shots"
+    }
+  },
+  {
+    "id": "prd-jn45zpl",
+    "name": "Microsoft Surface Pro 8",
+    "category": "Tablets",
+    "price": 1199.99,
+    "currency": "USD",
+    "stock": 40,
+    "urlImage": "https://http2.mlstatic.com/D_NQ_NP_2X_673751-MLA79254345224_092024-F.webp",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screenSize": "13 inches"
+    }
+  },
+  {
+    "id": "prd-fk93xwm",
+    "name": "Anker Soundcore Flare 2",
+    "category": "Speakers",
+    "price": 79.99,
+    "currency": "USD",
+    "stock": 100,
+    "urlImage": "https://i.rtings.com/assets/products/P8VRowBM/anker-soundcore-flare-2/design-large.jpg?format=auto",
+    "specs": {
+      "type": "Portable Bluetooth",
+      "batteryLife": "12 hours",
+      "waterproof": "Yes",
+      "bluetooth": "5.0"
+    }
+  },
+  {
+    "id": "prd-mk38ptk",
+    "name": "Garmin Forerunner 945",
+    "category": "Wearables",
+    "price": 499.99,
+    "currency": "USD",
+    "stock": 35,
+    "urlImage": "https://res.garmin.com/it-production/image/upload/v1666790099/Product_Images/en/products/010-02383-00/g/52969-MORNING-REPORT.jpg",
+    "specs": {
+      "screenSize": "1.2 inches",
+      "waterResistant": "50m",
+      "batteryLife": "2 weeks",
+      "sensors": ["Heart rate", "GPS", "Pulse Oximeter"]
+    }
+  },
+  {
+    "id": "prd-op23gtj",
+    "name": "Apple MacBook Air M1",
+    "category": "Laptops",
+    "price": 999.99,
+    "currency": "USD",
+    "stock": 30,
+    "urlImage": "https://m.media-amazon.com/images/I/71jG+e7roXL._AC_SL1500_.jpg",
+    "specs": {
+      "processor": "Apple M1",
+      "ram": "8GB",
+      "storage": "256GB SSD",
+      "screenSize": "13.3 inches"
+    }
+  },
+  {
+    "id": "prd-fq78wpl",
+    "name": "Bose QuietComfort 35 II",
+    "category": "Headphones",
+    "price": 299.99,
+    "currency": "USD",
+    "stock": 60,
+    "urlImage": "https://m.media-amazon.com/images/I/81+jNVOUsJL._AC_SL1500_.jpg",
+    "specs": {
+      "type": "Over-Ear",
+      "noiseCancelling": "Yes",
+      "batteryLife": "20 hours",
+      "bluetooth": "4.1"
+    }
+  },
+  {
+    "id": "prd-gx93pzl",
+    "name": "LG Gram 17",
+    "category": "Laptops",
+    "price": 1699.99,
+    "currency": "USD",
+    "stock": 20,
+    "urlImage": "https://external-preview.redd.it/lg-gram-17-2023-review-ultralight-office-laptop-with-core-v0-PdIN8IDx1d9muO5AakVy6-WswBdbReJBo9vARd_2e3k.jpg?auto=webp&s=a34ea0e77cf29b1404665c052c736aecb2001e1b",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screenSize": "17 inches"
+    }
+  },
+  {
+    "id": "prd-tp78ymn",
+    "name": "Amazon Echo Dot (4th Gen)",
+    "category": "Speakers",
+    "price": 49.99,
+    "currency": "USD",
+    "stock": 200,
+    "urlImage": "https://m.media-amazon.com/images/I/714Rq4k05UL._AC_SL1500_.jpg",
+    "specs": {
+      "type": "Smart Speaker",
+      "assistant": "Alexa",
+      "connectivity": "Wi-Fi, Bluetooth",
+      "powerSource": "AC"
+    }
+  },
+  {
+    "id": "prd-rm34nxp",
+    "name": "Apple iPad Air (2022)",
+    "category": "Tablets",
+    "price": 749.99,
+    "currency": "USD",
+    "stock": 40,
+    "urlImage": "https://www.apple.com/newsroom/images/product/ipad/standard/Apple-iPad-Air-hero-color-lineup-220308_big.jpg.large.jpg",
+    "specs": {
+      "processor": "Apple M1",
+      "ram": "8GB",
+      "storage": "256GB",
+      "screenSize": "10.9 inches"
+    }
+  },
+  {
+    "id": "prd-ps12lck",
+    "name": "Dell G15 Gaming Laptop",
+    "category": "Laptops",
+    "price": 1099.99,
+    "currency": "USD",
+    "stock": 25,
+    "urlImage": "https://www.ventasrosario.com.ar/wp-content/uploads/2024/08/dell_g15_g5535a643gry_amd_ryzen_7_7840hs_ssd_512gb_16gb_ram_geforce_rtx4060_8gb_20240513113807.jpg",
+    "specs": {
+      "processor": "Intel Core i7",
+      "ram": "16GB",
+      "storage": "512GB SSD",
+      "screenSize": "15.6 inches"
+    }
+  },
+  {
+    "id": "prd-hg98lpl",
+    "name": "LG OLED C1 65\" 4K TV",
+    "category": "TVs",
+    "price": 2199.99,
+    "currency": "USD",
+    "stock": 10,
+    "urlImage": "https://www.lg.com/cac/images/televisores/md07528468/gallery/dm-2.jpg",
+    "specs": {
+      "screenSize": "65 inches",
+      "resolution": "4K UHD",
+      "smartTV": "Yes",
+      "refreshRate": "120Hz"
+    }
+  },
+  {
+    "id": "prd-pf29mkq",
+    "name": "Fitbit Charge 5",
+    "category": "Wearables",
+    "price": 149.99,
+    "currency": "USD",
+    "stock": 55,
+    "urlImage": "https://i.blogs.es/3467b4/fitbit-charge-5/1366_2000.jpeg",
+    "specs": {
+      "screenSize": "1.04 inches",
+      "waterResistant": "50m",
+      "batteryLife": "7 days",
+      "sensors": ["Heart rate", "Sleep tracking", "GPS"]
+    }
+  },
+  {
+    "id": "prd-jk47vkl",
+    "name": "GoPro Hero10 Black",
+    "category": "Cameras",
+    "price": 499.99,
+    "currency": "USD",
+    "stock": 35,
+    "urlImage": "https://www.ventasrosario.com.ar/wp-content/uploads/2022/01/2-A.-1.jpg",
+    "specs": {
+      "resolution": "23MP",
+      "videoResolution": "5.3K",
+      "waterproof": "Yes",
+      "batteryLife": "1.5 hours"
+    }
+  },
+  {
+    "id": "prd-lg12rnt",
+    "name": "Xiaomi Mi 11",
+    "category": "Smartphones",
+    "price": 749.99,
+    "currency": "USD",
+    "stock": 50,
+    "urlImage": "https://acdn.mitiendanube.com/stores/001/531/943/products/shome_mi11liteazul1-7aacc9573b19819aa516402861502803-1024-1024.jpg",
+    "specs": {
+      "storage": "128GB",
+      "camera": "108MP triple",
+      "battery": "4600 mAh",
+      "screenSize": "6.81 inches"
+    }
+  },
+  {
+    "id": "prd-om23jqp",
+    "name": "Apple AirPods Pro",
+    "category": "Headphones",
+    "price": 249.99,
+    "currency": "USD",
+    "stock": 100,
+    "urlImage": "https://m.media-amazon.com/images/I/71zny7BTRlL._AC_SL1500_.jpg",
+    "specs": {
+      "type": "In-Ear",
+      "noiseCancelling": "Yes",
+      "batteryLife": "4.5 hours",
+      "bluetooth": "5.0"
+    }
+  },
+  {
+    "id": "prd-pm67fkz",
+    "name": "Samsung Galaxy Tab A7",
+    "category": "Tablets",
+    "price": 249.99,
+    "currency": "USD",
+    "stock": 45,
+    "urlImage": "https://i.ebayimg.com/images/g/dlIAAOSw-JRfzkTy/s-l500.jpg",
+    "specs": {
+      "processor": "Snapdragon 662",
+      "ram": "3GB",
+      "storage": "32GB",
+      "screenSize": "10.4 inches"
+    }
+  },
+  {
+    "id": "prd-tg54jlk",
+    "name": "Asus ROG Strix G15",
+    "category": "Laptops",
+    "price": 1499.99,
+    "currency": "USD",
+    "stock": 20,
+    "urlImage": "https://m.media-amazon.com/images/I/71iORGjNL3L._AC_SL1500_.jpg",
+    "specs": {
+      "processor": "AMD Ryzen 9",
+      "ram": "16GB",
+      "storage": "1TB SSD",
+      "screenSize": "15.6 inches"
+    }
+  },
+  {
+    "id": "prd-rp34tmx",
+    "name": "Apple Mac Mini M1",
+    "category": "Desktops",
+    "price": 699.99,
+    "currency": "USD",
+    "stock": 25,
+    "urlImage": "https://m.media-amazon.com/images/I/71pcTYT+ICL._AC_SL1500_.jpg",
+    "specs": {
+      "processor": "Apple M1",
+      "ram": "8GB",
+      "storage": "256GB SSD"
+    }
+  },
+  {
+    "id": "prd-yz47lkm",
+    "name": "DJI Mini 2 Drone",
+    "category": "Drones",
+    "price": 449.99,
+    "currency": "USD",
+    "stock": 20,
+    "urlImage": "https://www.compudemano.com/wp-content/uploads/2023/03/dji-mini-2-se-fly-more-combo-1.png",
+    "specs": {
+      "camera": "12MP",
+      "videoResolution": "4K",
+      "batteryLife": "31 minutes",
+      "range": "10 km"
+    }
+  },
+  {
+    "id": "prd-qw29lpk",
+    "name": "Samsung Odyssey G7",
+    "category": "Monitors",
+    "price": 799.99,
+    "currency": "USD",
+    "stock": 30,
+    "urlImage": "https://images.samsung.com/is/image/samsung/p6pim/ar/ls43cg700nlxzb/gallery/ar-odyssey-neo-g7-g70nc-ls43cg700nlxzb-539036144?$650_519_PNG$",
+    "specs": {
+      "screenSize": "27 inches",
+      "resolution": "QHD",
+      "refreshRate": "240Hz",
+      "curved": "Yes"
+    }
+  },
+  {
+    "id": "prd-om56tpx",
+    "name": "Logitech G502 Hero",
+    "category": "Accessories",
+    "price": 49.99,
+    "currency": "USD",
+    "stock": 150,
+    "urlImage": "https://m.media-amazon.com/images/I/61mpMH5TzkL._AC_SL1500_.jpg",
+    "specs": {
+      "type": "Gaming Mouse",
+      "sensor": "25K DPI",
+      "buttons": 11,
+      "lighting": "RGB"
+    }
+  },
+  {
+    "id": "prd-op27lmq",
+    "name": "Nikon Z6 II",
+    "category": "Cameras",
+    "price": 1999.99,
+    "currency": "USD",
+    "stock": 18,
+    "urlImage": "https://dcdn.mitiendanube.com/stores/004/477/051/products/camara-mirrorless-nikon-z8-con-kit-de-accesorios-e8bc71f94e584881ac17121578349703-480-0.jpg",
+    "specs": {
+      "resolution": "24.5MP",
+      "sensorType": "Full-Frame",
+      "videoResolution": "4K",
+      "batteryLife": "340 shots"
+    }
+  }
+]
